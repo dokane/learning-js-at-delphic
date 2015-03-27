@@ -87,7 +87,7 @@ To get the most of this study guide, type out code examples that you find in the
 
 ### Final Meetup - July 9th
 
-1. Discuss week 7's reading
+1. Present final quizzes to the group
 2. Study Group Celebration Postmortem!!!!
 3. Discuss Pros and Cons of the Group.
 

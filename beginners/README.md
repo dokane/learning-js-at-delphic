@@ -101,7 +101,7 @@ var allQuestions = [{question: "Who is Prime Minister of the United Kingdom?", c
 
 ### Final Meetup - July 9th
 
-1. Discuss week 7's reading
+1. Present final quizzes to the group
 2. Study Group Celebration Postmortem!!!!
 3. Discuss Pros and Cons of the Group.
 
